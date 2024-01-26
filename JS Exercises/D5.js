@@ -78,7 +78,8 @@ const cars = [
     Successivamente, rimuovi l'ultimo elemento della proprietà "trims" da ogni auto.
 */
 
-// cars.age = "n";
+// const newcar = { brand: "Fiat", model: "Panda", color: "red", trims: ["A", "B", "C"] };
+// cars.push(newcar);
 
 // for (let i = 0; i < cars.length; i++) {
 //   delete cars[i].trims.pop();

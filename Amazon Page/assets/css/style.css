@@ -1,0 +1,153 @@
+/* Your styles here */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e9edee;
+  width: 100%;
+}
+
+.barraalta {
+  background-color: #222f3f;
+  height: 4.5em;
+}
+
+.logo1 {
+  height: 3em;
+  padding-left: 2em;
+  padding-top: 0.5em;
+}
+
+.bordoalto {
+  background-color: #364759;
+  height: 2.5em;
+  width: 100%;
+}
+
+.pmenù {
+  display: inline-block;
+  color: white;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0.5em;
+  margin-left: 2em;
+  margin-right: -0.7em;
+}
+
+.orangebar {
+  background-color: #f56600;
+  margin: 2em;
+  height: 2.5em;
+}
+
+.porangebar {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: large;
+  text-align: center;
+  padding-top: 0.5em;
+}
+
+.imgnatalizia {
+  background-image: url(../images/bg-image.png);
+  height: 15em;
+  margin-left: 2em;
+  margin-right: 2em;
+  background-size: 107em;
+}
+
+.pnatalizia1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: xx-large;
+  padding-top: 3em;
+}
+
+.pnatalizia2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: x-large;
+  padding-top: 1.5em;
+}
+
+.sectioncards {
+  background-color: white;
+  height: 37em;
+  margin: 2em;
+}
+
+.divcards {
+  padding-left: 4.5em;
+}
+
+.card {
+  display: inline-block;
+
+  width: 23em;
+  height: 30em;
+  margin: 1.5em;
+  box-shadow: grey 0 15px 40px -5px;
+
+  border-radius: 1.5em;
+  object-fit: cover;
+}
+
+.pcards1 {
+  color: black;
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding: 1em;
+  padding-bottom: 0;
+}
+
+.pcards2 {
+  font-size: large;
+  color: #096468;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.selectlongimg {
+  margin: 2em;
+  margin-bottom: 0;
+}
+
+.longimg {
+  width: 95.8vw;
+  object-fit: cover;
+}
+
+.pgame {
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 2em;
+}
+
+.bordoalto2 {
+  height: 4em;
+}
+
+.aclass {
+  text-align: center;
+  color: white;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1.5em;
+  padding-bottom: 0.2em;
+  font-weight: bold;
+}
+
+.barrabassa {
+  background-color: #222f3f;
+  height: 15em;
+}
+
+.ultimologo {
+  height: 6em;
+  margin-left: 43%;
+  margin-top: 6em;
+}
