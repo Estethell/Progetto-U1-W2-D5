@@ -126,8 +126,6 @@ while (contatore !== 32 && i < numericArray.length) {
   i++;
 }
 
-console.log("Esercizio 9:", contatore);
-
 /* ESERCIZIO 10
     Partendo dall'array fornito e utilizzando un costrutto switch, genera un nuovo array composto dalle posizioni di ogni carattere all'interno
     dell'alfabeto italiano.
