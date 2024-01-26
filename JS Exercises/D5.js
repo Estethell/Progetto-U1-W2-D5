@@ -132,25 +132,89 @@ const numericArray = [6, 90, 45, 75, 84, 98, 35, 74, 31, 2, 8, 23, 100, 32, 66, 
 */
 const charactersArray = ["g", "n", "u", "z", "d"];
 
-// const newCharactersArray = [];
+const newCharactersArray = [];
 
-// for (let i = 0; i < charactersArray.length; i++) {
-//   switch (charactersArray[i]) {
-//     case "g":
-//       newCharactersArray.push(7);
-//       break;
-//     case "n":
-//       newCharactersArray.push(14);
-//       break;
-//     case "u":
-//       newCharactersArray.push(21);
-//       break;
-//     case "z":
-//       newCharactersArray.push(26);
-//       break;
-//     default:
-//       newCharactersArray.push(4);
-//   }
-// }
+for (let i = 0; i < charactersArray.length; i++) {
+  switch (charactersArray[i]) {
+    case "a":
+      newCharactersArray.push(1);
+      break;
+    case "b":
+      newCharactersArray.push(2);
+      break;
+    case "c":
+      newCharactersArray.push(3);
+      break;
+    case "d":
+      newCharactersArray.push(4);
+      break;
+    case "e":
+      newCharactersArray.push(5);
+      break;
+    case "f":
+      newCharactersArray.push(6);
+      break;
+    case "g":
+      newCharactersArray.push(7);
+      break;
+    case "h":
+      newCharactersArray.push(8);
+      break;
+    case "i":
+      newCharactersArray.push(9);
+      break;
+    case "j":
+      newCharactersArray.push(10);
+      break;
+    case "k":
+      newCharactersArray.push(11);
+      break;
+    case "l":
+      newCharactersArray.push(12);
+      break;
+    case "m":
+      newCharactersArray.push(13);
+      break;
+    case "n":
+      newCharactersArray.push(14);
+      break;
+    case "o":
+      newCharactersArray.push(15);
+      break;
+    case "p":
+      newCharactersArray.push(16);
+      break;
+    case "q":
+      newCharactersArray.push(17);
+      break;
+    case "r":
+      newCharactersArray.push(18);
+      break;
+    case "s":
+      newCharactersArray.push(19);
+      break;
+    case "t":
+      newCharactersArray.push(20);
+      break;
+    case "u":
+      newCharactersArray.push(21);
+      break;
+    case "v":
+      newCharactersArray.push(22);
+      break;
+    case "w":
+      newCharactersArray.push(23);
+      break;
+    case "x":
+      newCharactersArray.push(24);
+      break;
+    case "y":
+      newCharactersArray.push(25);
+      break;
 
-// console.log("Esercizio 10:", newCharactersArray);
+    default:
+      newCharactersArray.push(26);
+  }
+}
+
+console.log("Esercizio 10:", newCharactersArray);
